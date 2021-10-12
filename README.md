@@ -1,3 +1,3 @@
 # Richter Scale
 
-!()[snapshot.png]
+!()[./snapshot.png]
