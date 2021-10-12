@@ -1,0 +1,1 @@
+# HW_WEEK01_DAY03_Richter_Scale
